@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "Preserve",
+    "strict": true,
+    "sourceMap": false,
+    "declaration": false
+  }
+}
