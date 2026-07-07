@@ -47,7 +47,9 @@ git checkout main
 ```
 
 `main` 브랜치에서는 JavaScript 버전의 코드를 확인할 수 있습니다.
-`TSver` 브랜치에서는 TypeScript 버전의 코드를 확인할 수 있습니다. 나중에 코드 확인 할때 사용해 보시는걸 권장합니다.
 
-`TSver` 브랜치에서는 TypeScript로 변환된 코드를 확인할 수 있습니다.
+`TSver` 브랜치에서는 TypeScript 버전의 코드를 확인할 수 있습니다. 
+
+나중에 코드 확인 할때 사용해 보시는걸 권장합니다.
+
 
